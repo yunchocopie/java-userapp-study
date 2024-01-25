@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.Locale;
 
-@WebServlet("/join-Form")
+//@WebServlet("/join-Form")
 public class JoinFormServlet extends HttpServlet {
 
     @Override
